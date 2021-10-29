@@ -1,0 +1,1 @@
+# Patron_de_estructura_Decorator
