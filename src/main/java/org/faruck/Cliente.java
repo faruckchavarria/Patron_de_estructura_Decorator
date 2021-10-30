@@ -1,8 +1,6 @@
 package org.faruck;
 
 
-import java.util.Date;
-
 public class Cliente {
     private String dni;
     private String nombre;
@@ -31,10 +29,10 @@ public class Cliente {
     public void setNombre(String nombre) {
         this.nombre = nombre;
     }
-    public String getFechaNac() {
+    public Fecha getFechaNac() {
         return this.fechaNac;
     }
-    public void setFechaNac(String fechaNac) {
+    public void setFechaNac(Fecha fechaNac) {
         this.fechaNac = fechaNac;
     }
     public String getDireccion() {
