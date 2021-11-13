@@ -50,8 +50,7 @@
 ### que retorne el interes en una funcion, que retorne el plazo final en una funcion
 <img src="capturas\14.PNG" alt="Caso1"/>
 
-## Creamos la clase Prueba del patron donde colocamos los datos a imprimir para poder tomar losvalores necesarios como la cantidad de dinero de 2 diferentes usuarios al cual uno si tendra intereses y un plazo mas extenso a pagar de manejera final, haciendo uso de la clase fecha para asi llevar un orden de tiempo el cual el cliente tendra a cabo, y la contatenado de varios strings para el resultado de la impresion del compilado
-
+## Creamos la clase Prueba del patron donde colocamos los datos a imprimir para poder tomar losvalores necesarios como la cantidad de dinero de 2 diferentes usuarios al cual uno si tendra intereses y un plazo mas extenso a pagar de manejera final, haciendo uso de la clase fecha para asi llevar un orden de tiempo el cual el cliente tendra a cabo, y la contatenado de varios strings para el resultado de la impresion del compilad
 <img src="capturas\15.PNG" alt="Caso1"/>
 
 # Resultados
