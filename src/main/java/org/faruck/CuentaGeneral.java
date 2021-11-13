@@ -19,34 +19,26 @@ public class CuentaGeneral implements Cuenta {
 
     @Override
     public void ingresar(double cantidad) {
-        // TODO Auto-generated method stub
-
-        //cantidad=saldo+cantidad;
 
     }
 
     @Override
     public void retirar(double cantidad) {
-        // TODO Auto-generated method stub
-        //cantidad=saldo-cantidad;
 
     }
 
     @Override
     public Cliente getCliente() {
-        // TODO Auto-generated method stub
         return cliente;
     }
 
     @Override
     public Fecha getFecApe() {
-        // TODO Auto-generated method stub
         return fecApertura;
     }
 
     @Override
     public void aplicaIntereses() {
-        // TODO Auto-generated method stub
 
     }
 
